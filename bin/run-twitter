@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+puts "Startup twitter integration..."
+`ruby ./bot.rb`
+puts "done."
